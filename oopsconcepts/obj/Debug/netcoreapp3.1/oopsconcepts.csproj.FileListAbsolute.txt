@@ -1,0 +1,13 @@
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\obj\Debug\netcoreapp3.1\oopsconcepts.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\obj\Debug\netcoreapp3.1\oopsconcepts.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\obj\Debug\netcoreapp3.1\oopsconcepts.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\obj\Debug\netcoreapp3.1\oopsconcepts.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\bin\Debug\netcoreapp3.1\oopsconcepts.exe
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\bin\Debug\netcoreapp3.1\oopsconcepts.deps.json
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\bin\Debug\netcoreapp3.1\oopsconcepts.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\bin\Debug\netcoreapp3.1\oopsconcepts.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\bin\Debug\netcoreapp3.1\oopsconcepts.dll
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\bin\Debug\netcoreapp3.1\oopsconcepts.pdb
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\obj\Debug\netcoreapp3.1\oopsconcepts.dll
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\obj\Debug\netcoreapp3.1\oopsconcepts.pdb
+C:\Users\Sahithi.P\source\repos\oopsconcepts\oopsconcepts\obj\Debug\netcoreapp3.1\oopsconcepts.genruntimeconfig.cache
